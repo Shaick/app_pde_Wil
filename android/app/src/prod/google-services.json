@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "426006076856",
+    "firebase_url": "https://professordeengenharia-59662.firebaseio.com",
+    "project_id": "professordeengenharia-59662",
+    "storage_bucket": "professordeengenharia-59662.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426006076856:android:aae2d926e6f40c8d4dc34d",
+        "android_client_info": {
+          "package_name": "br.com.professordeengenharia.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426006076856-odftr88fb3vld801m5esvp23g7ttlbj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvM60sZ6pGXDAOjYFN077oBeleAfBdyVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426006076856-odftr88fb3vld801m5esvp23g7ttlbj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

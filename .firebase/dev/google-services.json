@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "809301091811",
+    "firebase_url": "https://pde-dev-default-rtdb.firebaseio.com",
+    "project_id": "pde-dev",
+    "storage_bucket": "pde-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809301091811:android:42fa644d3241fc6a3decd6",
+        "android_client_info": {
+          "package_name": "br.com.professordeengenharia.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809301091811-a0v6aveljfjaiue3utkcefecf04uri6c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.professordeengenharia.app",
+            "certificate_hash": "6480814a6678aebb4ebca0d61e8121c552e79dae"
+          }
+        },
+        {
+          "client_id": "809301091811-o2ujjsrfgrv3fmq2obucmgneuu5j4pl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw4DkMrttT0QF9Nwhb8eLiQX0EMVHByAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809301091811-o2ujjsrfgrv3fmq2obucmgneuu5j4pl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
